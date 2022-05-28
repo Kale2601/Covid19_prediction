@@ -1,3 +1,3 @@
 # Covid19_prediction
 
-Will be posted until May 29th
+Will be posted by May 29th
